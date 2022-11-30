@@ -13,9 +13,12 @@ The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/M
 <img src="images/img_form.jpg" height="400px"/>
 
 2. Press the `Runtime` tab, then Press the `Run All` or `Restart and Run All` button to get the results.  
-  (Please run it despite the warning. This tool stores data on Google Drive, so you'll need to do a Google Authentication with your account.)
+  (Please run it despite the warning. )
 
 <img src="images/img_run.jpg" height="400px"/>
+
+3. This tool saved  data on Google Drive, so you'll need to do a Google Authentication with your account.  
+  (saved data: songs data, score data, etc.)
 
 ## Data
 - Score Data from ScoreSaber Public API - [doc](https://docs.scoresaber.com/)  
