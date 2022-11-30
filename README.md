@@ -13,9 +13,7 @@ The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/M
 ## how to use
 
 1. When the [notebook](https://colab.research.google.com/github/hatopopvr/MyBSAnalytics_Lite/blob/main/MyBSAnalytics_Lite_En.ipynb)  opens, input information below.
- - `player_id` : enter the BeatLeader PlayerID (=ScoreSaberID).
- - `sort_type` : Select `pp` or `date` (or etc.) as the content to be retrieved. 
- - `player_visible` : Whether to include player images in tiles.
+ - `player_id` : enter the ScoreSaber PlayerID.
  
 ![Input Form](images/images_002.jpg)
  
