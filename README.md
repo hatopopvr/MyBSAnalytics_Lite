@@ -12,12 +12,12 @@ The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/M
 1. When the [notebook](https://colab.research.google.com/github/hatopopvr/MyBSAnalytics_Lite/blob/main/MyBSAnalytics_Lite_En.ipynb)  opens, input information below.
  - `player_id` : enter the ScoreSaber PlayerID.
 
-<img src="images/img_form.png" height="400px"/>
+<img src="images/img_form.jpg" height="400px"/>
 
 2. Press the `Runtime` tab, then Press the `Run All` or `Restart and Run All` button to get the results.  
   (Please run it despite the warning.)
 
-<img src="images/img_run.png" height="400px"/>
+<img src="images/img_run.jpg" height="400px"/>
 
 
 ## Data
