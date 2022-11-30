@@ -27,6 +27,3 @@ The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/M
 
 ## Author
 - hatopop ([@hatopop_vr](https://twitter.com/hatopop_vr))
-
-## Caution
-- If you would like me to add a default value for the timezone, please mentions me on Twitter.
