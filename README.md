@@ -3,9 +3,8 @@
 The [Google Colab Notebook](https://colab.research.google.com/github/hatopopvr/MyBSAnalytics_Lite/blob/main/MyBSAnalytics_Lite_En.ipynb)
  to analyze your [ScoreSaber](https://scoresaber.com/)'s Ranked scores data.
 
-![scatter_plot](images/img_scatter.png.png)
-
-![cleared_progress](images/img_clear_progress.png)
+<img src="images/img_scatter.png" height="400px"/>
+<img src="images/img_clear_progress.png" height="400px"/>
 
 <b>Data</b>
 - Score Data from ScoreSaber Public API - [doc](https://docs.scoresaber.com/)  
